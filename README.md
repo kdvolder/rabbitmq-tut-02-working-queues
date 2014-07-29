@@ -13,7 +13,7 @@ Changes from the original tutorial code:
 Importing into Eclipse
 ======================
 
-You need M2E (maven tooling for Eclipse). Simple import the code in this project as an "Existing Maven Project" and it should be good to go.
+You need M2E (maven tooling for Eclipse). Simply import the code in this project as an "Existing Maven Project" and it should be good to go.
 
 Running
 =======
