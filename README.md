@@ -1,4 +1,4 @@
-RabbitMQ Work Quees with Maven and Eclipse
+RabbitMQ Work Queues with Maven and Eclipse
 ==========================================
 
 Code based on the [RabbitMQ Work Queues Tutorial](http://www.rabbitmq.com/tutorials/tutorial-two-java.html).
