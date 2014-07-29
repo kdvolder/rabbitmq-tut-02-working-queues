@@ -1,7 +1,7 @@
 RabbitMQ Work Quees with Maven and Eclipse
 ==========================================
 
-Code based on the [RabbitMQ Work Queues Tutorial](https://www.rabbitmq.com/tutorials/tutorial-three-java.html).
+Code based on the [RabbitMQ Work Queues Tutorial](http://www.rabbitmq.com/tutorials/tutorial-two-java.html).
 
 Minor modifications to make this more convenient to run from inside Eclise with the help of m2e.
 
